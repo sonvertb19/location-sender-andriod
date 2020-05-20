@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LocationSender</string>
+    <string name="location_button">Get My Location</string>
+    <string name="location_button_heading">Tap the button to get your location!</string>
+    <string name="home_screen_heading">Select Your Car</string>
+    <string name="home_screen_heading_helper">Select the car to bind your location to the car\'s</string>
+
+    <string name="gul_heading">This activity will fetch and display user\'s location.</string>
+    <string name="isAPIAvailable">.</string>
+    <string name="yes">YES</string>
+    <string name="no">\"NO: \"</string>
+    <string name="location_permission_denied">Permission denied by user</string>
+    <string name="carName_label">Car Name:</string>
+    <string name="contractAddress_label">Car ID:</string>
+    <string name="blank">---</string>
+    <string name="unable_to_get_location">Unable to get location. Wait for some time or try restarting you mobile</string>
+    <string name="google_api_unabailable">GoogleAPIServices is not available. Can not proceed further</string>
+</resources>
